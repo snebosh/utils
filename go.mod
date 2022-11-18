@@ -1,3 +1,3 @@
-module github.com/snebosh/utils/v2
+module github.com/snebosh/utils/v3
 
 go 1.19
